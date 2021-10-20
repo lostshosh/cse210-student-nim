@@ -42,3 +42,4 @@ class Player:
             move (Move): an instance of Move
         """
         self._move = move
+        
